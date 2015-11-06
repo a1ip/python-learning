@@ -27,3 +27,7 @@ for aStr in myStr1, myStr2, myStr3:
 																	# за пределами диапазона 0..127
 	
 	print('byteslen1={0}, byteslen2={1}'.format(len(bytes1), len(bytes2)))
+
+
+
+
